@@ -296,7 +296,8 @@ This system demonstrates how marketing analytics can:
 
 ## Executive Marketing Intelligence Dashboard
 
-> Add your dashboard screenshots here
+> ![Excel_Dashboard](Images/Excel_Dashboard.png)
+> ![Tableau_Dashboard](Images/Tableau_Dashboard.png)
 
 ```markdown id="pc3j9v"
 ![Dashboard Preview](Images/dashboard_preview.png)
